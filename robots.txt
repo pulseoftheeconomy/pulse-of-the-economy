@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pulseoftheeconomy.netlify.app/sitemap.xml
