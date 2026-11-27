@@ -3,7 +3,7 @@
 Clear, plain-English explainers on the world economy — gold, markets, energy, and what it all means for your money.
 
 🌐 **Live blog:** https://pulseoftheeconomy.netlify.app
-📘 **Facebook:** https://www.facebook.com/profile.php?id=61596918208044
+📘 **Facebook:** https://www.facebook.com/profile.php?id=61575090848114
 🐦 **X:** https://x.com/PulseEconn
 ✉️ **Newsletter:** https://pulseoftheeconomy.substack.com
 📧 **Contact:** pulseoftheeconomy@gmail.com
